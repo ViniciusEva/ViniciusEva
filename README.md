@@ -49,6 +49,6 @@
 
 ------
 
-[BrantLauro]([[https://github.com/ViniciusEva)))
+[Vinicius Evangelista]([[https://github.com/ViniciusEva)
 
 Last Edited on: 05/08/2021
